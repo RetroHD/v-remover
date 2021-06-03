@@ -2,7 +2,7 @@ const fs = require('fs');
 const path = require("path");
 const readline = require('readline');
 
-var filePath = "C:\\Users\\Max Fisher\\Desktop\\Source lol\\wario4land_gba_ique\\src\\enemy\\";
+var filePath = "C:\\Users\\Max\\Desktop\\Source lol\\wario4land_gba_ique\\src\\enemy\\";
 var counter = 0;
   
   //Read the targeted directory
